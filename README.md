@@ -19,7 +19,7 @@ This README documents the reproduction of the LightGCL model in the ReChorus fra
 ## Datasets
 
 - Grocery_and_Gourmet_Food
-- MIND_Large
+- MIND_Large(Use small version)
 - MovieLens_1M
 
 ## Metrics
@@ -29,7 +29,18 @@ This README documents the reproduction of the LightGCL model in the ReChorus fra
 - HR@40
 - NDCG@40
 
-## Performance Data
+## Performance
+
+### 
+![Grocery Performance](result/Grocery_and_Gourmet_Food.png)
+
+### 
+![MIND Performance](result/MIND_Large.png)
+
+### 
+![MovieLens Performance](result/MovieLens_1M.png)
+
+## Metrics Data
 
 ### Grocery_and_Gourmet_Food
 
